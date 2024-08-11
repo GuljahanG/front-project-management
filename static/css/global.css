@@ -1,0 +1,16 @@
+@import 'primeicons/primeicons.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Regular.tff') format('tff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Apply your custom font to body or any element */
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
