@@ -1,7 +1,18 @@
-![image](https://github.com/user-attachments/assets/049922f1-c099-46df-b033-eae6f5c2a0f4)
-
-
 # Nuxt 3 & Tailwind Project Management 
+
+![image](https://github.com/user-attachments/assets/95a2ee44-08d3-43bd-9783-5a1a6bbfd34e)
+
+# Add Task
+![image](https://github.com/user-attachments/assets/43f48f60-3c18-482d-8507-30abc18776a7)
+
+
+# Edit Task
+![image](https://github.com/user-attachments/assets/2b48336a-b106-434a-8f57-9445c8b71724)
+
+
+
+
+
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
