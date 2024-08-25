@@ -1,4 +1,4 @@
-# Nuxt 3 & Tailwind Project Management 
+# Project Management Dashboard with Draggable Tasks
 
 ![image](https://github.com/user-attachments/assets/95a2ee44-08d3-43bd-9783-5a1a6bbfd34e)
 
@@ -9,7 +9,7 @@
 # Edit Task
 ![image](https://github.com/user-attachments/assets/2b48336a-b106-434a-8f57-9445c8b71724)
 
-
+A project management tool built with **Vue 3**, **Nuxt.js**, and **Tailwind CSS** that allows users to manage tasks with a drag-and-drop interface. This app features a responsive design, customizable task lists, and seamless integration with modern front-end technologies.
 
 
 
