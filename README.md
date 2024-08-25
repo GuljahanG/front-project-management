@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/049922f1-c099-46df-b033-eae6f5c2a0f4)
+![image](https://github.com/user-attachments/assets/95a2ee44-08d3-43bd-9783-5a1a6bbfd34e)
+
 
 
 # Nuxt 3 & Tailwind Project Management 
