@@ -4,13 +4,34 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'Roboto';
-    src: url('/fonts/Roboto-Regular.tff') format('tff');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-  /* Apply your custom font to body or any element */
-  body {
-    font-family: 'Roboto', sans-serif;
-  }
+  font-family: 'Roboto';
+  src: url('/fonts/Roboto-Regular.tff') format('tff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.scrollbar-custom::-webkit-scrollbar {
+  height: 10px;
+  width: 12px;
+  background-color: transparent;
+  transition: height 0.3s ease, background-color 0.3s ease;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #c5c5c5; 
+  border-radius: 10px; 
+  transition: height 0.3s ease, border-color 0.3s ease;
+}
+
+.scrollbar-custom:hover::-webkit-scrollbar {
+  height: 14px;
+  background-color: #efefef; 
+}
+.scrollbar-custom:hover::-webkit-scrollbar-thumb:hover {
+  background-color: #909090;
+  height: 14px;
+}

@@ -1,5 +1,8 @@
+<script setup>
+  const layout = 'main-layout'
+</script>
 <template>
-  <div>
-    <NuxtPage />
-  </div>
+    <div>
+      <NuxtLayout :name="layout" />
+    </div>
 </template>
